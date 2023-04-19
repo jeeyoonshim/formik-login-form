@@ -8,7 +8,7 @@ Download all files, and make sure to have node.js and node version manager insta
 
 ## Roadmap
  - [ ] Add descriptions to the login screen
-  -[ ] Add instructions within the input boxes
+ - [ ] Add instructions within the input boxes
  - [ ] Formatting & CSS
  - [ ] Hide the password as it's being entered (****)
  - [ ] Require minimum password length
